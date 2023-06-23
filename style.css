@@ -1,0 +1,42 @@
+/* h1{
+    text-align: center;
+}
+h2{
+    text-align: center;}
+button{
+    text-align: center;
+} */
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+.box{
+    background-color: white;
+    
+    height:25px;
+    width: 25px;
+    border: 0px solid black;
+}
+.row{
+    display: flex;
+    margin-left: 38%;
+    /* background-color: green; */
+}
+.color1{
+    background-image: url("apple.png");
+    background-repeat: no-repeat;
+    background-size: 25px 25px;
+    
+    /* height:20px;
+    width:20px;  */
+}
+.color2{
+    background-color: black;
+}
+.color3{
+    background-color: black;
+    border-radius: 50%;
+}
+/* .btn{
+    position: relative;
+} */
