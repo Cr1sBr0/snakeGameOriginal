@@ -12,7 +12,6 @@ async function endgame()
     }
     document.querySelectorAll(" .box")[appi*10+appr].classList.remove("color1");
     queue=[[Math.floor(Math.random() * 10),Math.floor(Math.random() * 10)]];
-    //button.addEventListener("click", startbro);
 
 }
 function check()
